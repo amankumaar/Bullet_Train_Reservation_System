@@ -31,11 +31,11 @@ You will need the following:-
 4) You can aslo watch the Demo-video to learn how to run this project, it is available in [Other_Files] Folder.
 5) [Visual Folder] & Database_Design.pdf is available in (Other_Files) Folder which can help you to understand the Design & Development of this Project.
 
-## Contributors:-
+# Contributors:-
 
 - Aman Kumar iamankumaaar@gmail.com
 
-## License & Copyright
+# License & Copyright
 © Aman Kumar
 
 Licensed under the [MIT License](LICENSE).
