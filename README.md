@@ -27,16 +27,16 @@ This project is dedicated to model existing Railway Reservation systems that aim
 You will need the following:-
 1) Java NetBeans 8.2 as Front-end Development environment.
 2) MySQL as Back-end Sever with Database for Testing.
-3) After that Copy & Paste the code *(MySql_Database.txt)* in your MySql Server (*MySql_Database.txt* is available in [Other_Files] Folder)
+3) After that Copy & Paste the code [MySql_Database.txt](https://github.com/iamankumaar/Bullet_Train_Reservation_System/blob/main/Other_Files/MySql_Database.txt) in your MySql Server.
 4) You can aslo watch the Demo-video to learn how to run this project, it is available in [Other_Files] Folder.
-5) [Visual Folder] & Database_Design.pdf is available in (Other_Files) Folder which can help you to understand the Design & Development of this Project.
+5) [Visual Folder](https://github.com/iamankumaar/Bullet_Train_Reservation_System/tree/main/Other_Files/Visuals) & [Database_Design](https://github.com/iamankumaar/Bullet_Train_Reservation_System/blob/main/Other_Files/Database_Design.pdf) can help you to understand the Design & Development of this Project.
 
 # Contributors:-
 
-- [Aman Kumar](https://github.com/iamankumaar) iamankumaaar@gmail.com
+- [Aman Kumar](https://github.com/iamankumaar)
 
 # License & Copyright
-© 2021 Aman Kumar
+© 2021 [Aman Kumar](https://github.com/iamankumaar)
 
 Licensed under the [MIT License](LICENSE).
 
