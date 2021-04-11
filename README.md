@@ -33,7 +33,7 @@ You will need the following:-
 
 # Contributors:-
 
-- Aman Kumar iamankumaaar@gmail.com
+- [Aman Kumar](https://github.com/iamankumaar) iamankumaaar@gmail.com
 
 # License & Copyright
 © 2021 Aman Kumar
