@@ -29,7 +29,7 @@ You will need the following:-
 2) MySQL as Back-end Sever with Database for Testing.
 3) After that Copy & Paste the code *(MySql_Database.txt)* in your MySql Server (*MySql_Database.txt* is available in [Other_Files] Folder)
 4) You can aslo watch the Demo-video to learn how to run this project, it is available in [Other_Files] Folder.
-5) [Visual Folder] & Database_Design.pdf is available in (Other_Files) Folder which can help you to understand the Design & Development of the Project.
+5) [Visual Folder] & Database_Design.pdf is available in (Other_Files) Folder which can help you to understand the Design & Development of this Project.
 
 ## Contributors:-
 
