@@ -36,7 +36,7 @@ You will need the following:-
 - Aman Kumar iamankumaaar@gmail.com
 
 # License & Copyright
-© Aman Kumar
+© 2021 Aman Kumar
 
 Licensed under the [MIT License](LICENSE).
 
