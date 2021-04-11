@@ -27,7 +27,7 @@ This project is dedicated to model existing Railway Reservation systems that aim
 You will need the following:-
 1) Java NetBeans 8.2 as Front-end Development environment.
 2) MySQL as Back-end Sever with Database for Testing.
-3) After that Copy & Paste the code *(Route.txt)* in your MySql Server (*Route.txt* is available in [Other_Files] Folder)
+3) After that Copy & Paste the code *(MySql_Database.txt)* in your MySql Server (*MySql_Database.txt* is available in [Other_Files] Folder)
 4) You can aslo watch the Demo-video to learn how to run this project, it is available in [Other_Files] Folder.
 
 ## Contributors:-
