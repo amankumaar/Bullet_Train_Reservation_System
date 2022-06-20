@@ -1,5 +1,10 @@
 # Bullet_Train_Reservation_System
 
+## Visuals
+
+> ![screenshot](https://github.com/amankumaar/Bullet_Train_Reservation_System/blob/250550a9c231dea7ae77cfa7b84aec177ed70975/Other_Files/Visuals/Login_Form.png)
+> ![screenshot](https://github.com/amankumaar/Bullet_Train_Reservation_System/blob/250550a9c231dea7ae77cfa7b84aec177ed70975/Other_Files/Visuals/Main_Form.png)
+
 ## Introduction:-
 This software project is developed to automate the functionalities of an INDIAN RAILWAYS – Bullet Train Reservation System. 
 The purpose of the software project is to develop the Management Information System (MIS) to automate the record keeping of Trains, Passenger Details, Train Schedules and Ticket Fare with a view to enhance the decision making  of the functionaries. 
